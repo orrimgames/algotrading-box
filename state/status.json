@@ -8,9 +8,9 @@
     },
     "price_ticker": {
       "ok": true,
-      "secs": 0.3
+      "secs": 0.15
     }
   },
-  "last_run": "2026-11-17T01:15:13Z",
-  "runs": 15
+  "last_run": "2026-11-17T01:20:11Z",
+  "runs": 16
 }
