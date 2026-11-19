@@ -2,7 +2,7 @@
   "first_run": "2026-11-16T23:20:36Z",
   "jobs": {
     "heartbeat": {
-      "beats": 686
+      "beats": 687
     },
     "hl_book": {
       "candle_tries": 1,
@@ -139,18 +139,18 @@
     },
     "hl_predicted_funding": {
       "last_rows": 631,
-      "last_ts": 1795074358,
-      "snapshots": 55
+      "last_ts": 1795077913,
+      "snapshots": 56
     },
     "price_ticker": {
       "last_prices": {
-        "BTC": 63603.435,
-        "ETH": 1802.08,
-        "SOL": 74.32,
-        "ts": "2026-11-19T08:40:12Z"
+        "BTC": 63522.955,
+        "ETH": 1799.155,
+        "SOL": 74.26,
+        "ts": "2026-11-19T08:45:13Z"
       }
     }
   },
-  "last_run": "2026-11-19T08:40:12Z",
-  "runs": 686
+  "last_run": "2026-11-19T08:45:13Z",
+  "runs": 687
 }
