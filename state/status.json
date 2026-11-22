@@ -8,17 +8,17 @@
     },
     "hl_book": {
       "ok": true,
-      "secs": 51.21
+      "secs": 41.42
     },
     "hl_predicted_funding": {
       "ok": true,
-      "secs": 0.0
+      "secs": 0.14
     },
     "price_ticker": {
       "ok": true,
-      "secs": 0.24
+      "secs": 0.15
     }
   },
-  "last_run": "2026-11-22T07:40:13Z",
-  "runs": 1549
+  "last_run": "2026-11-22T07:45:12Z",
+  "runs": 1550
 }
