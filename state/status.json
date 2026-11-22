@@ -4,11 +4,11 @@
   "jobs": {
     "heartbeat": {
       "ok": true,
-      "secs": 0.01
+      "secs": 0.0
     },
     "hl_book": {
       "ok": true,
-      "secs": 0.33
+      "secs": 0.05
     },
     "hl_predicted_funding": {
       "ok": true,
@@ -16,9 +16,9 @@
     },
     "price_ticker": {
       "ok": true,
-      "secs": 0.32
+      "secs": 0.2
     }
   },
-  "last_run": "2026-11-22T08:35:10Z",
-  "runs": 1560
+  "last_run": "2026-11-22T08:40:12Z",
+  "runs": 1561
 }
