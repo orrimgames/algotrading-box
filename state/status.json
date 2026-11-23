@@ -12,13 +12,13 @@
     },
     "hl_predicted_funding": {
       "ok": true,
-      "secs": 0.0
+      "secs": 0.22
     },
     "price_ticker": {
       "ok": true,
-      "secs": 0.09
+      "secs": 0.08
     }
   },
-  "last_run": "2026-11-23T02:40:13Z",
-  "runs": 1780
+  "last_run": "2026-11-23T02:45:12Z",
+  "runs": 1781
 }
