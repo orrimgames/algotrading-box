@@ -2,11 +2,11 @@
   "first_run": "2026-11-16T23:20:36Z",
   "jobs": {
     "heartbeat": {
-      "beats": 2495
+      "beats": 2496
     },
     "hl_book": {
-      "candle_tries": 0,
-      "candles": "pending",
+      "candle_tries": 1,
+      "candles": "done",
       "coins": [
         "BTC",
         "ETH",
@@ -131,7 +131,7 @@
       ],
       "cycle": "20261125_13",
       "errs": 0,
-      "last_done": "20261125_07: 13 snapshots, 1560 book rows, 8092 candle rows, 0 errors",
+      "last_done": "20261125_13: 13 snapshots, 1560 book rows, 8160 candle rows, 0 errors",
       "rows": 1560,
       "snaps": 13,
       "t_hour": 1795611600,
@@ -144,13 +144,13 @@
     },
     "price_ticker": {
       "last_prices": {
-        "BTC": 57993.585,
-        "ETH": 1629.8,
-        "SOL": 66.79,
-        "ts": "2026-11-25T14:00:19Z"
+        "BTC": 58241.435,
+        "ETH": 1635.405,
+        "SOL": 66.895,
+        "ts": "2026-11-25T14:08:43Z"
       }
     }
   },
-  "last_run": "2026-11-25T14:00:19Z",
-  "runs": 2495
+  "last_run": "2026-11-25T14:05:13Z",
+  "runs": 2496
 }
