@@ -1,12 +1,12 @@
 # algotrading-box status
 
-- box last ran: **2026-11-27T01:10:15Z** (UTC)
-- total runs: 2915 since 2026-11-16T23:20:36Z
+- box last ran: **2026-11-27T01:15:18Z** (UTC)
+- total runs: 2916 since 2026-11-16T23:20:36Z
 - cadence target: every 5 min (GitHub cron can lag under load)
 
 | job | ok | secs | error |
 |---|---|---|---|
 | heartbeat | True | 0.0 |  |
-| hl_book | True | 41.65 |  |
+| hl_book | True | 44.79 |  |
 | hl_predicted_funding | True | 0.0 |  |
-| price_ticker | True | 0.22 |  |
+| price_ticker | True | 0.07 |  |
